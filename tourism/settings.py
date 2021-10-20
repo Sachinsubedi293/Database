@@ -29,7 +29,7 @@ SECRET_KEY = 'fcs8j1#gk7x^5ob1-(zry)8o6m%zzqq42xm%76c!eh1vc$4f8d'
 DEBUG = True
 
 ALLOWED_HOSTS = ['192.168.43.203',
-                 '192.168.1.37', '192.168.0.100', 'localhost','tourism.heruko.com']
+                 '192.168.1.37', '192.168.0.100', 'localhost','tourism-data.heruko.com']
 # Application definition
 
 INSTALLED_APPS = [
